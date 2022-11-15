@@ -1,1 +1,1 @@
-<view class="content"><u-button vue-id="8dd740cc-1" text="月落" bind:__l="__l"></u-button></view>
+<view class="content"><post vue-id="8dd740cc-1" bind:__l="__l"></post></view>

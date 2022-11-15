@@ -5,9 +5,9 @@
         "include": []
     },
     "setting": {
-        "urlCheck": false,
+        "urlCheck": true,
         "es6": false,
-        "postcss": false,
+        "postcss": true,
         "minified": false,
         "newFeature": true,
         "bigPackageSizeSupport": true,
@@ -19,7 +19,7 @@
     },
     "compileType": "miniprogram",
     "libVersion": "2.27.3",
-    "appid": "touristappid",
+    "appid": "wx15c29b6031995726",
     "projectname": "uView",
     "condition": {},
     "editorSetting": {

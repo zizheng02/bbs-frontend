@@ -1,6 +1,6 @@
 {
-  "navigationBarTitleText": "uni-app",
+  "navigationBarTitleText": "ECNU-X",
   "usingComponents": {
-    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+    "post": "/components/post"
   }
 }
